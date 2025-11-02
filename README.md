@@ -15,7 +15,7 @@ Some components, parameters, and preprocessing steps have been simplified or omi
 ---
 
 ### Environment
-The implementation uses general deep learning libraries (e.g., PyTorch).  
+The implementation uses general deep learning libraries.  
 Exact versions or configurations may vary based on local environments.
 
 ---
