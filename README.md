@@ -16,7 +16,7 @@ Some components, parameters, and preprocessing steps have been simplified or omi
 ---
 
 ### Environment
-The implementation uses general deep learning libraries (e.g., PyTorch).  
+The implementation uses general deep learning libraries.  
 Exact versions or configurations may vary based on local environments.
 
 ---
@@ -25,8 +25,14 @@ Exact versions or configurations may vary based on local environments.
 Configuration files and example scripts are provided for reference only.  
 To reproduce full results, please refer to the detailed methodology in the published paper.  
 Dataset preparation and experimental tuning are not included.
-
 ---
+
+
+### Dataset
+The datasets used in the experiments are publicly available but require independent application or access approval from the original providers.  
+Due to confidentiality agreements, the datasets cannot be distributed through this repository.
+---
+
 
 ### Citation
 Use of this repository or any derived work requires proper citation of the following paper:
