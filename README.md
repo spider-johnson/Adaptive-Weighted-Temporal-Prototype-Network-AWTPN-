@@ -32,7 +32,7 @@ Dataset preparation and experimental tuning are not included.
 Use of this repository or any derived work requires proper citation of the following paper:
 
 ```
-@article{hao2025awtpn,
+@article{#####,
   title={Adaptive Weighted Temporal Prototype Network for Multimodal Emotion Recognition},
   journal={Information Processing & Management},
   year={2025}
